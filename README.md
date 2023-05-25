@@ -14,7 +14,7 @@
 
 Step -1   Download Zip file 
 
-Step -2   Unzip it & Rename folder from "tiny-main" to "tiny"
+Step -2   Unzip it & Rename folder from "shorty-main" to "tiny"
 
 Step -3   Put tiny folder inside 
 
