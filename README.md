@@ -121,7 +121,7 @@ Step -12   Run in browser
           email    -> shorty@gmail.com
           password -> shorty@gmail.com
 
--> While Hosing
+-> While Hosting
 
           1) Change env.php credentials
           2) Change siteName.php 
